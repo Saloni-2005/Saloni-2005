@@ -1,10 +1,9 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Saloni
 
-🎓 I'm a [Your Role: e.g., Computer Science Student | Web Developer]  
-🌱 Currently learning: [e.g., React, TypeScript, Cloud Deployment]  
-💼 Looking for internship opportunities in [e.g., Frontend Development, Full Stack]  
-🌐 Portfolio: [your-portfolio-link]  
-📫 Reach me at: [saloni.p24@medhaviskillsuniversity.edu.in] | [LinkedIn](www.linkedin.com/in/saloni-kumari-108b88321) 
+🎓 I'm a B.Tech CSE Student
+🌱 Currently learning: React, TypeScript, Cloud Deployment 
+💼 Looking for internship opportunities in [Android Development, Frontend Development, Full Stack]  
+📫 Reach me at: saloni.p24@medhaviskillsuniversity.edu.in | [LinkedIn](www.linkedin.com/in/saloni-kumari-108b88321) 
 
 ---
 
